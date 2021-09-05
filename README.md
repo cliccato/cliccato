@@ -11,7 +11,9 @@
 <a href="https://isocpp.org/">
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_32x32.png">
 </a>
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/go_32x32.png">
+<a href="https://golang.org">
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/go/go_32x32.png">
+</a>
 <br><br><br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iltiaaa&show_icons=true&include_all_commits=true&theme=dark" alt="My github stats" />
