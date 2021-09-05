@@ -1,5 +1,5 @@
 <h1 align=center >Il Tiaaa</h1>
-<p align=center>15 years old eveloper from Italy 🇮🇹</a>
+<p align=center>15 years old skidder from Italy 🇮🇹</a>
 <br>
 <h3>Language I know</h3>
 <a href="https://python.org/">
