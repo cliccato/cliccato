@@ -8,7 +8,7 @@
 <a href="https://www.r-project.org/">
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r_32x32.png">
 </a>
-<a href="https://isocpp.org/">
+<a href="https://www.iso.org/standard/74528.html">
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_32x32.png">
 </a>
 <a href="https://golang.org">
